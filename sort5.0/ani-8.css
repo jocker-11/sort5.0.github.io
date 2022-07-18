@@ -1,9 +1,4 @@
-@media screen and (min-width:1000px)  {
-    .ani_center{
-        margin: 0px 470px;
-    }
-}
-@media screen and (max-width:450px)  {
+@media screen and (max-width:768pxpx)  {
     .ani_center{
         margin: auto;
         width: 60%;
