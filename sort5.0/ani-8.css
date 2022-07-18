@@ -1,11 +1,11 @@
+.ani_center{
+    margin: 0px 470px;
+}
 @media screen and (max-width:390pxpx)  {
     .ani_center{
         margin: auto;
         width: 60%;
     }
-}
-.ani_center{
-    margin: 0px 470px;
 }
 .one{
     width: 100px;
